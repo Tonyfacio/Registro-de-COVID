@@ -1,0 +1,37 @@
+
+        <html>
+             <head>
+                 <title>Tarjeta de Amadis Suarez</title>
+             </head>
+             <body>
+                 <dic class='container'> 
+                     <img style='max-width:200px' src='https://api.adamix.net/apec/foto2\0011760025' alt='logo' class='logo'>
+                     <h1>Trajeta de Amadis Suarez</h1>
+                     <h3>Cedula 0011760025</h3>
+                     <h3>Telefono 986542</h3>
+
+                     <h4>Procesos aplicados</h4>
+                     <table>
+                       <thead>
+                          <tr>
+                             <th>Fecha</th>
+                             <th>Vacuna</th>
+                             <th>Provincia</th>
+                          </tr>
+                          </thead>
+                          <tbody>
+                               
+            <tr>
+                <td>06/07/2022</td>
+                <td>Astrazeneca</td>
+                <td>Santiago</td>
+            </tr>
+        
+                          </tbody>
+                          </table>
+
+                 </div>
+             </body>
+        </html>
+    
+    
